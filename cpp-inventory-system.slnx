@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="ParkerProject2/ParkerProject2.vcxproj" Id="85a4e381-77e3-4b91-ae91-19971fa63c46" />
+</Solution>
