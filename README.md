@@ -17,4 +17,4 @@ The inventory is stored in a sorted singly linked list. A stack is used to displ
 
 Open `cpp-inventory-system.slnx` in Visual Studio with C++ desktop development tools installed, then build and run the project.
 
-The program expects `Inventory.txt` to be available in its working directory.
+The program expects `inventory.txt` to be available in its working directory.
